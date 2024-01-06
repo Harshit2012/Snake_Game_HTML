@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake Game</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="Slogo.jpg">
+</head>
+<body>
+    <div class="container text-center">
+        <img id="logo" src="Slogo.jpg">
+        <h1 class="mt-2">Snake Game</h1>
+        <label id="lastScoreLabel" class="last-score-label">Last Score: 0</label>
+        <div id="score" class="score">Score: 0</div>
+        <br>
+        <canvas id="snakeCanvas" width="400" height="400" class="snake-canvas"></canvas>
+        <div class="controls">
+            <button class="btn btn-primary" onclick="changeDirection('up')">Up</button>
+            <button class="btn btn-primary" onclick="changeDirection('down')">Down</button>
+            <button class="btn btn-primary" onclick="changeDirection('left')">Left</button>
+            <button class="btn btn-primary" onclick="changeDirection('right')">Right</button>
+            <button id="pauseButton" class="btn btn-warning" onclick="togglePause()">Pause</button>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

@@ -1,4 +1,4 @@
-![Slogo](https://github.com/Harshit2012/Snake_Game_HTML/assets/105143145/bc247824-6e7c-4e52-8ef5-ae7b0dc8d7b9)  
+
 # Snake Game
 A Snake game implemented using HTML, CSS, and JavaScript.  
 # Features
@@ -12,4 +12,5 @@ A Snake game implemented using HTML, CSS, and JavaScript.
 - Avoid collisions with the walls and the snake's body.
 - Pause or restart the game as needed.  
 # Try it Out  
+Click [Link to Portfolio Website](https://gaganpreetkaurkalsi.netlify.app/) to try the game.
 Feel free to contribute, report issues, or suggest improvements to enhance the gaming experience!

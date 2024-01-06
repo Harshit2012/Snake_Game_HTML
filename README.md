@@ -12,5 +12,5 @@ A Snake game implemented using HTML, CSS, and JavaScript.
 - Avoid collisions with the walls and the snake's body.
 - Pause or restart the game as needed.  
 # Try it Out  
-Click [Link to Portfolio Website](https://gaganpreetkaurkalsi.netlify.app/) to try the game.
+Click [here](https://harshit2012.github.io/Snake_Game_HTML/) to try the game.
 Feel free to contribute, report issues, or suggest improvements to enhance the gaming experience!

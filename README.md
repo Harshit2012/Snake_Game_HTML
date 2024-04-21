@@ -13,4 +13,5 @@ A Snake game implemented using HTML, CSS, and JavaScript.
 - Pause or restart the game as needed.  
 # Try it Out  
 Click [here](https://harshit2012.github.io/Snake_Game_HTML/) to try the game.   
-Feel free to contribute, report issues, or suggest improvements to enhance the gaming experience!
+## License
+This repository is under MIT License.
